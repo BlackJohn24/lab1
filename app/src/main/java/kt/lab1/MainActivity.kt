@@ -14,8 +14,8 @@ class MainActivity : AppCompatActivity() {
         val iddata: TextView = findViewById(R.id.iddata)
         val res: TextView = findViewById(R.id.res)
         val res2: TextView = findViewById(R.id.res2)
-        val a:Double = 5.656
-        val data:String = "G"
+        val a = 5.656
+        val data= "G"
 
 
         iddata.setText(data)
